@@ -1,0 +1,14 @@
+{
+    "name": "wengjs/support",
+    "description": "This project collect some useful scripts as support.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jui-Sheng Weng",
+            "email": "wengjs.tw+github@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Wjs\\Support\\": "src/"}
+    }
+}
